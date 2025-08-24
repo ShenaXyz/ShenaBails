@@ -26,4 +26,4 @@
 - 💬 **Dukungan Komunitas Developer** — Dari dev, untuk dev
 - 💥 **Diuji Crash-Resistant** — Cocok untuk eksperimen bot tingkat llanjut
 
-##Shena/Rinn
+## Shena/Rinn
