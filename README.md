@@ -1,7 +1,7 @@
 # Baileys-Shena - WhatsApp Bot Framework 2025 Spesial Edition
 
 <p align="center">
-  <img src="[https://files.catbox.moe/ixlpjn.jpg]
+  <img src="https://files.catbox.moe/ixlpjn.jpg"
     width="300" alt="Baileys Shena Logo" />
 </p>
 
