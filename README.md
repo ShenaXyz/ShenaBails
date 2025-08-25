@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RinnSkie/ShenaBails"><img src="https://img.shields.io/github/stars/ErlanggaaXzzz/Baileys?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/ShenaXyz/ShenaBails"><img src="https://img.shields.io/github/stars/ErlanggaaXzzz/Baileys?style=for-the-badge" alt="Stars"></a>
   <a href="https://www.npmjs.com/package/baileys-erlangga"><img src="https://img.shields.io/npm/v/baileys-erlangga?style=for-the-badge" alt="NPM"></a>
 </p>
 
